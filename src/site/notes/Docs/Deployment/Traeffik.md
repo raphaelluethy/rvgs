@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/deployment/traeffik/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/docs/deployment/traeffik/"}
 ---
 
 
